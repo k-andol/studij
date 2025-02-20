@@ -1,6 +1,5 @@
-
-**BIOLOŠKA KEMIJA**
-
+BIOLOŠKA KEMIJA
+===============
 Pozdravljen/a!
 
 Ta projekt je namenjen bolj učinkovitemu reševanju vprašanj iz Lehningerja.
@@ -16,13 +15,13 @@ izmed gumbov desno zgoraj.
 Na desni strani se sproti posodablja št. pravilnih in napačnih odgovorov.
 Pod vprašanjem se izpišeta poglavje in zaporedna številka vprašanja.
 
-Uporabne bližnjice:
-A -> odgovor A
-B -> odgovor B
-C -> odgovor C
-D -> odgovor D
-E -> odgovor E
-enter -> Novo vprašanje
+Uporabne bližnjice:  
+A -> odgovor A  
+B -> odgovor B  
+C -> odgovor C  
+D -> odgovor D  
+E -> odgovor E  
+enter -> Novo vprašanje  
 ctrl + R -> Resetiraj
 
 Opomba: Bližnjice niso občutljive na velike/male začetnice.
