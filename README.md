@@ -15,13 +15,27 @@ izmed gumbov desno zgoraj.
 Na desni strani se sproti posodablja št. pravilnih in napačnih odgovorov.  
 Pod vprašanjem se izpišeta poglavje in zaporedna številka vprašanja.
 
+S klikom na gumb Končaj kviz se kviz konča, prikaže pa se stran z rezultati, ki vsebuje  
+podatke o št. pravilnih in napačnih odgovorov, deležu pravilnih odgovorov in oceni.
+
+Privzet kriterij:  
+90-100 % -> 10  
+80-90 % -> 9  
+70-80 % -> 8  
+60-70 % -> 7  
+50-60 % -> 6  
+0-50 % -> NEG  
+
 **Uporabne bližnjice:**  
 A -> odgovor A  
 B -> odgovor B  
 C -> odgovor C  
 D -> odgovor D  
 E -> odgovor E  
-enter -> Novo vprašanje  
-ctrl + R -> Resetiraj
+enter -> Začni! oz. Novo vprašanje  
+ctrl + N -> Neomejeno  
+ctrl + R -> Resetiraj  
+ctrl + K -> Končaj kviz  
+ctrl + W -> zapri okno  
 
 Opomba: Bližnjice niso občutljive na velike/male začetnice.
