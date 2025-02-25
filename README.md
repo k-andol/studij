@@ -4,6 +4,16 @@ Pozdravljen/a!
 
 Ta projekt je namenjen bolj učinkovitemu reševanju vprašanj iz Lehningerja.
 
+**NAVODILA ZA INŠTALACIJO (WINDOWS)**
+
+Prenesi zip datoteko z naslovom Bioloska-kemija-kviz.zip. Ko jo preneseš, jo ekstrahiraj (čeprav nismo pri organski).  
+Zaženi datoteko s pripono .exe. Če te računalnik opozori, da je aplikacija morda nevarna - pač ignoriraj (pinky promise,  
+da aplikacija ni virus). Kljub temu: uporaba na lastno odgovornost:)
+
+Opomba: Zaenkrat naj bi delovalo le na Windows.
+
+**NAVODILA ZA UPORABO**
+
 Na začetni strani je možno izbrati poglavja, iz katerih naj program jemlje vprašanja,  
 in število vprašanj, ki naj jih program zastavi. Možno je izbrati neomejen način, v katerem  
 program zastavlja vprašanja, dokler uporabnik ne klikne na gumb Končaj kviz.
