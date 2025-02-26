@@ -8,7 +8,7 @@ Ta projekt je namenjen bolj učinkovitemu reševanju vprašanj iz Lehningerja.
 
 Prenesi zip datoteko z naslovom Bioloska-kemija-kviz.zip. Ko jo preneseš, jo ekstrahiraj (čeprav nismo pri organski). Zaženi datoteko s pripono .exe. Če te računalnik opozori, da je aplikacija morda nevarna - pač ignoriraj (pinky promise, da aplikacija ni virus). Kljub temu: uporaba na lastno odgovornost:)
 
-Opomba: Zaenkrat naj bi delovalo le na Windows.
+Opomba: Zaenkrat naj bi delovalo le na operacijskem sistemu Windows.
 
 **NAVODILA ZA UPORABO**
 
